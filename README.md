@@ -1,5 +1,6 @@
 # crawler
-crawler skills
+crawler skill
+universal crawler -crawler junior
 The role of requests: simulate the browser to surf the Internet
 Use process:
 Specify URL
